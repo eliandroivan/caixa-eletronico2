@@ -1,0 +1,119 @@
+arquivo: program.cs
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace caixa_eletronico_versao3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Caixa eletronico");
+
+            Conta contaCorrente = new Conta(); //instanciar o objeto
+            contaCorrente.agenciaConta = "0333";
+            contaCorrente.numeroConta = "65333";
+            contaCorrente.titularConta = "joao";
+            contaCorrente.saldo = 1000;
+
+            /*
+            int valorTotalDisponivel = 0;
+            List<Cedulas> cedulasLista = new List<Cedulas>(); //criar lista para armazenar cedulas
+            Cedulas cedulasCaixa = new Cedulas(); //instanciar o objeto
+
+            cedulasCaixa = new Cedulas();
+            cedulasCaixa.CedulaValor = 100;
+            cedulasCaixa.CedulaQtd = 100;
+            cedulasLista.Add(cedulasCaixa);
+
+            cedulasCaixa = new Cedulas();
+            cedulasCaixa.CedulaValor = 50;
+            cedulasCaixa.CedulaQtd = 50;
+            cedulasLista.Add(cedulasCaixa);
+
+            cedulasCaixa = new Cedulas();
+            cedulasCaixa.CedulaValor = 20;
+            cedulasCaixa.CedulaQtd = 20;
+            cedulasLista.Add(cedulasCaixa);
+
+            cedulasCaixa = new Cedulas();
+            cedulasCaixa.CedulaValor = 10;
+            cedulasCaixa.CedulaQtd = 10;
+            cedulasLista.Add(cedulasCaixa);
+
+            for (int i = 0; i < cedulasLista.Count; i++)
+            {
+                valorTotalDisponivel += (cedulasLista[i].CedulaQtd * cedulasLista[i].CedulaValor);
+            }
+            Console.WriteLine("Valor total disponivel: $" + valorTotalDisponivel);
+            */
+            /*
+            cedulasCaixa.CedulaValor = new int[] { 100, 50, 20, 10 };
+            cedulasCaixa.CedulaQtd = new int[] { 100, 50, 20, 10 };
+            int valorTotalDisponivel = 0;
+            for (int i = 0; i < 4 ; i++)
+            {
+                valorTotalDisponivel += (cedulasCaixa.CedulaValor[i] * cedulasCaixa.CedulaQtd[i]);
+            }
+            Console.WriteLine("Valor disponivel: $ " + valorTotalDisponivel);
+            */
+            int opcoes_caixa;
+            do
+            {
+                Console.WriteLine("----------------------");
+                Console.WriteLine("\n \nEscolha uma das opções:");
+                Console.WriteLine("0 - Sair");
+                Console.WriteLine("1 - Saldo");
+                Console.WriteLine("2 - Sacar notas de 10 distribuidas proporcionalmente infinitamente");
+                Console.WriteLine("3 - Sacar notas de 10 com o minimo possivel infinitamente");
+                Console.WriteLine("4 - Sacar notas de 10 com o minimo possivel e COM LIMITE de cedulas");
+                Console.WriteLine("5 - Sacar notas de 2 e 5 com o minimo possivel infinitamente");
+                Console.WriteLine("6 - Sacar notas de 2 e 5 com minimo possivel e COM LIMITE de cedulas");
+                Console.WriteLine("7 - Depositar");
+                Console.WriteLine("8 - Transferencia");
+                Console.Write("digite sua opção: ");
+                opcoes_caixa = int.Parse(Console.ReadLine());
+                Console.WriteLine("----------------------");
+
+                switch (opcoes_caixa)
+                {
+                    case 0:
+                        break;
+                    case 1:
+                        contaCorrente.Saldo();
+                        break;
+                    case 2:
+                        contaCorrente.Sacar10proporcionalInfinitasNotas();
+                        break;
+                    case 3:
+                        contaCorrente.Sacar10minimoInfinitasNotas();
+                        break;
+                    case 4:
+                        contaCorrente.Sacar10minimoLimiteNotas();
+                        break;
+                    case 5:
+                        contaCorrente.Sacar2e5minimoInfinitasNotas();
+                        break;
+                    case 6:
+                        contaCorrente.Sacar2e5minimoLimiteNotas();
+                        break;
+                    case 7:
+                        contaCorrente.Depositar();
+                        break;
+                    case 8:
+                        contaCorrente.Transferir();
+                        break;
+                    default:
+                        break;
+                }
+
+            } while (opcoes_caixa != 0);
+
+            Console.ReadKey();
+        }
+    }
+}

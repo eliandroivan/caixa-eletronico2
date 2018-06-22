@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "caixa_eletronico_versao4", "caixa_eletronico_versao4\caixa_eletronico_versao4.csproj", "{ACD4BE35-E299-49CF-B2F9-D301E0720031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACD4BE35-E299-49CF-B2F9-D301E0720031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD4BE35-E299-49CF-B2F9-D301E0720031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD4BE35-E299-49CF-B2F9-D301E0720031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD4BE35-E299-49CF-B2F9-D301E0720031}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3771B1CA-9ED4-40D7-8147-44D1A9E45AD8}
+	EndGlobalSection
+EndGlobal

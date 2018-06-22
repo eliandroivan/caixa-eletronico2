@@ -1,0 +1,21 @@
+D:\Microsoft Visual Studio\projetos\caixa_eletronico_versao3\caixa_eletronico_versao3\obj\Debug\caixa_eletronico_versao3.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\projetos\caixa_eletronico_versao3\caixa_eletronico_versao3\bin\Debug\caixa_eletronico_versao3.exe.config
+D:\Microsoft Visual Studio\projetos\caixa_eletronico_versao3\caixa_eletronico_versao3\bin\Debug\caixa_eletronico_versao3.exe
+D:\Microsoft Visual Studio\projetos\caixa_eletronico_versao3\caixa_eletronico_versao3\bin\Debug\caixa_eletronico_versao3.pdb
+D:\Microsoft Visual Studio\projetos\caixa_eletronico_versao3\caixa_eletronico_versao3\obj\Debug\caixa_eletronico_versao3.exe
+D:\Microsoft Visual Studio\projetos\caixa_eletronico_versao3\caixa_eletronico_versao3\obj\Debug\caixa_eletronico_versao3.pdb
+D:\Microsoft Visual Studio\projetos\caixa_eletronico_versao3\caixa_eletronico_versao3\obj\Debug\caixa_eletronico_versao3.csprojResolveAssemblyReference.cache
+D:\Microsoft Visual Studio\projetos\caixa_eletronico\caixa_eletronico_versao3\caixa_eletronico_versao3\bin\Debug\caixa_eletronico_versao3.exe.config
+D:\Microsoft Visual Studio\projetos\caixa_eletronico\caixa_eletronico_versao3\caixa_eletronico_versao3\bin\Debug\caixa_eletronico_versao3.exe
+D:\Microsoft Visual Studio\projetos\caixa_eletronico\caixa_eletronico_versao3\caixa_eletronico_versao3\bin\Debug\caixa_eletronico_versao3.pdb
+D:\Microsoft Visual Studio\projetos\caixa_eletronico\caixa_eletronico_versao3\caixa_eletronico_versao3\obj\Debug\caixa_eletronico_versao3.csprojResolveAssemblyReference.cache
+D:\Microsoft Visual Studio\projetos\caixa_eletronico\caixa_eletronico_versao3\caixa_eletronico_versao3\obj\Debug\caixa_eletronico_versao3.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\projetos\caixa_eletronico\caixa_eletronico_versao3\caixa_eletronico_versao3\obj\Debug\caixa_eletronico_versao3.exe
+D:\Microsoft Visual Studio\projetos\caixa_eletronico\caixa_eletronico_versao3\caixa_eletronico_versao3\obj\Debug\caixa_eletronico_versao3.pdb
+D:\Microsoft Visual Studio\projetos\caixa eletronico\caixa_eletronico_tipos_saque\caixa_eletronico_versao3\bin\Debug\caixa_eletronico_versao3.exe.config
+D:\Microsoft Visual Studio\projetos\caixa eletronico\caixa_eletronico_tipos_saque\caixa_eletronico_versao3\bin\Debug\caixa_eletronico_versao3.exe
+D:\Microsoft Visual Studio\projetos\caixa eletronico\caixa_eletronico_tipos_saque\caixa_eletronico_versao3\bin\Debug\caixa_eletronico_versao3.pdb
+D:\Microsoft Visual Studio\projetos\caixa eletronico\caixa_eletronico_tipos_saque\caixa_eletronico_versao3\obj\Debug\caixa_eletronico_versao3.csprojResolveAssemblyReference.cache
+D:\Microsoft Visual Studio\projetos\caixa eletronico\caixa_eletronico_tipos_saque\caixa_eletronico_versao3\obj\Debug\caixa_eletronico_versao3.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\projetos\caixa eletronico\caixa_eletronico_tipos_saque\caixa_eletronico_versao3\obj\Debug\caixa_eletronico_versao3.exe
+D:\Microsoft Visual Studio\projetos\caixa eletronico\caixa_eletronico_tipos_saque\caixa_eletronico_versao3\obj\Debug\caixa_eletronico_versao3.pdb

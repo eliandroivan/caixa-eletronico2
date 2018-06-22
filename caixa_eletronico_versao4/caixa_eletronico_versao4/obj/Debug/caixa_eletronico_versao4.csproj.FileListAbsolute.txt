@@ -1,0 +1,14 @@
+D:\Microsoft Visual Studio\projetos\caixa_eletronico_versao4\caixa_eletronico_versao4\obj\Debug\caixa_eletronico_versao4.csprojResolveAssemblyReference.cache
+D:\Microsoft Visual Studio\projetos\caixa_eletronico_versao4\caixa_eletronico_versao4\obj\Debug\caixa_eletronico_versao4.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\projetos\caixa_eletronico_versao4\caixa_eletronico_versao4\bin\Debug\caixa_eletronico_versao4.exe.config
+D:\Microsoft Visual Studio\projetos\caixa_eletronico_versao4\caixa_eletronico_versao4\bin\Debug\caixa_eletronico_versao4.exe
+D:\Microsoft Visual Studio\projetos\caixa_eletronico_versao4\caixa_eletronico_versao4\bin\Debug\caixa_eletronico_versao4.pdb
+D:\Microsoft Visual Studio\projetos\caixa_eletronico_versao4\caixa_eletronico_versao4\obj\Debug\caixa_eletronico_versao4.exe
+D:\Microsoft Visual Studio\projetos\caixa_eletronico_versao4\caixa_eletronico_versao4\obj\Debug\caixa_eletronico_versao4.pdb
+D:\Microsoft Visual Studio\projetos\caixa_eletronico\caixa_eletronico_versao4\caixa_eletronico_versao4\bin\Debug\caixa_eletronico_versao4.exe.config
+D:\Microsoft Visual Studio\projetos\caixa_eletronico\caixa_eletronico_versao4\caixa_eletronico_versao4\bin\Debug\caixa_eletronico_versao4.exe
+D:\Microsoft Visual Studio\projetos\caixa_eletronico\caixa_eletronico_versao4\caixa_eletronico_versao4\bin\Debug\caixa_eletronico_versao4.pdb
+D:\Microsoft Visual Studio\projetos\caixa_eletronico\caixa_eletronico_versao4\caixa_eletronico_versao4\obj\Debug\caixa_eletronico_versao4.csprojResolveAssemblyReference.cache
+D:\Microsoft Visual Studio\projetos\caixa_eletronico\caixa_eletronico_versao4\caixa_eletronico_versao4\obj\Debug\caixa_eletronico_versao4.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\projetos\caixa_eletronico\caixa_eletronico_versao4\caixa_eletronico_versao4\obj\Debug\caixa_eletronico_versao4.exe
+D:\Microsoft Visual Studio\projetos\caixa_eletronico\caixa_eletronico_versao4\caixa_eletronico_versao4\obj\Debug\caixa_eletronico_versao4.pdb
