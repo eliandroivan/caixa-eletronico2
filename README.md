@@ -3,3 +3,6 @@ caixa eletronico linguagem: c#, framework: .NET, exercicio de lógica e programa
 o caixa desenvolvido tem as seguintes opções:
 - distribui o minimo de cedulas ou proporcionalmente
 - com ou sem limite de cedulas na maquina
+
+versao4: operações com outras contas.
+tipos_saque: maneiras diferentes de distribuir cedulas
